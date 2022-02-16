@@ -12,17 +12,16 @@
 > - Master-Slave configurations
 > - Usage of cores
 > - Usage of memory
-    >
-- Driver Memory
->   - Executor Memory
+    
+> - Driver Memory
+> - Executor Memory
 
 ## Low Level API
 
 ### Basics of Low Level API
 
 > - Creation of Resilient Distributed Datasets (RDDs)
-    >
-- Loading data from files
+> - Loading data from files
 >  - RDD methods
 > - Map and FlatMap operations
 
