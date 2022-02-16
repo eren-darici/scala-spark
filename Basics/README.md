@@ -2,6 +2,7 @@
 
 
 > Covered basics of Apache Spark with Scala
+> 
 > <img src="https://kaizen.itversity.com/wp-content/uploads/2018/04/scala-spark.png">
 
 
